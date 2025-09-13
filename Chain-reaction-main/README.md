@@ -30,7 +30,7 @@ To run the game locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Chain_Reaction_Game/blob/main/Chain-reaction-main.git
+   git clone https://github.com/your-username/Chain_Reaction_Game.git
    ```
 2. Navigate into the project directory:
    ```bash
@@ -55,5 +55,6 @@ The game follows these basic rules:
 - HTML5
 - CSS3
 - JavaScript
+
 
 
